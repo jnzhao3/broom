@@ -32,7 +32,7 @@ In place of `broom`, `bm` also works.
 ## Installation
 
 ```
-git clone git@github.com:entity_name/broom.git
+git clone git@github.com:jnzhao3/broom.git
 cd broom
 pip install -e .
 
