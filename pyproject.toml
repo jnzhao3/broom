@@ -1,0 +1,14 @@
+[project]
+name = "broom"
+version = "0.1.0"
+description = "W&B assistant for hyperparameter sweeps."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "wandb>=0.16",
+    "colorama>=0.4.6",
+]
+
+[project.scripts]
+broom = "broom.cli:main"
+bm = "broom.cli:main"
