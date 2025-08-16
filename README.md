@@ -28,3 +28,13 @@ train_fql9_2   sd001_1401546250313_s_27409045.0.27363298.28.20250815_135811.892 
 ```
 
 In place of `broom`, `bm` also works.
+
+## Installation
+
+```
+git clone git@github.com:jnzhao3/broom.git
+cd broom
+pip install -e .
+```
+
+🧹
